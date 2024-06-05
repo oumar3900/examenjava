@@ -100,6 +100,6 @@ public class App {
                     break;
                                 }
 
-        } while (choix!=8);
+        } while (choix!=6);
     }
 }
